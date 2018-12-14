@@ -1,6 +1,6 @@
 Books
 
-Python Tricks The Book: A Buffet of Awesome Python Features (Dan Bader)
+Python Tricks The Book: A Buffet of Awesome Python Features (Dan Bader) /n
 Python Cookbook, 3rd Edition (David Beazley, Brian K. Jones)
 Automate the Boring Stuff with Python (Al Sweigart)
 Effective Python: 59 Specific Ways to Write Better Python (Brett Slatkin)
